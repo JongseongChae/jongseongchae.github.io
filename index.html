@@ -19,16 +19,16 @@ title: Home
 
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
-  <h4>Publications</h4>
+  <h5>Publications</h5>
 
-  <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/>
-  <sup>‡</sup> indicates equal contribution.
+  <!-- <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/> -->
+  <!-- <sup>‡</sup> indicates equal contribution. -->
   </p>
 
-  <ul class="tab-nav">
+  <!-- <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li>
-  </ul>
+  </ul> -->
 
   <div class="tab-content">
     <div class="tab-pane active" id="papers-selected">
@@ -68,7 +68,7 @@ title: Home
       {% endfor %}
     </div>
 
-    <div class="tab-pane" id="papers-all">
+    <!-- <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
@@ -102,15 +102,40 @@ title: Home
           </div>
         </div>
       {% endfor %}
-    </div>
+    </div> -->
   </div>
 </div>
 
 
+<!-- ========== Education ========== -->
+<div class="docs-section" id="education">
+  <h5>Education</h5>
+        <div class="paper">
+          <p class="title"><b>Korea Advanced Institute of Science and Technology (KAIST) <b style="float:right;">Mar. 2021 - Present</b></b></p>
+          
+          <p>Ph.D. Student (advisors: <a href="https://sites.google.com/view/youngchulsung">Youngchul Sung</a>)</p>
+          <p></p>
+        </div>
+        <div class="paper">
+          <p class="title"><b>Korea Advanced Institute of Science and Technology (KAIST) <b style="float:right;">Mar. 2019 - Feb. 2021</b></b></p>
+          
+          <p>M.S. in EE (advisor: <a href="https://sites.google.com/view/youngchulsung">Youngchul Sung</a>)</p>
+          <p></p>
+        </div>
+      
+        <div class="paper">
+          <p class="title"><b>Korea University<b style="float:right;">Mar. 2012 - Feb. 2019</b></b></p>
+          
+          <p>B.S. in EE 
+            Included 2 years leave of absence for mandatory military service
+          <p></p>
+        </div>
+</div>
+
 
 <!-- ========== RESUME ========== -->
 <div class="docs-section" id="resume">
-  <h4>Vitæ</h4>
+  <h5>Vitæ</h5>
 
   <!-- <p>Full Resume in <a href={{ "/assets/cv/cv_web.pdf" | prepend: site.baseurl }} target="_blank">PDF</a>.</p> -->
 
