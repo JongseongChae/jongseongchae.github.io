@@ -84,7 +84,7 @@ h4 {
 .docs-section a:not(.button):not(.navbar-link):hover {
   background-color: rgb(33, 97, 140) !important;
   color: #ffffff !important;
-  padding: 1px 1px !important;
+  padding: 1px 2px !important;
   border-radius: 4px !important;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1) !important;
   text-decoration: none !important;
