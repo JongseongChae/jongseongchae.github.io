@@ -74,18 +74,19 @@ h4 {
 /* ==== Hyperlink Hover Effect ==== */
 
 .docs-section a:not(.button):not(.navbar-link) {
-  transition: all 0.1s ease-in-out;
-  font-weight: 500;
-  text-decoration: none;
+  transition: all 0.05s ease-in-out !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  color: rgb(41, 128, 185) !important;
 }
 
 /* Hover */
 .docs-section a:not(.button):not(.navbar-link):hover {
-  background-color: #FFF3CD !important;
-  color: #856404 !important;
-  padding: 1px 2px !important;
+  background-color: rgb(33, 97, 140) !important;
+  color: #ffffff !important;
+  padding: 0.5px 1px !important;
   border-radius: 4px !important;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1) !important;
+  box-shadow: 0 0.5px 1px rgba(0,0,0,0.1) !important;
   text-decoration: none !important;
 }
 
