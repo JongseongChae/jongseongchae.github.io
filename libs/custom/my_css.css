@@ -74,7 +74,7 @@ h4 {
 /* ==== Hyperlink Hover Effect ==== */
 
 .docs-section a:not(.button):not(.navbar-link) {
-  transition: all 0.05s ease-in-out !important;
+  transition: all 0.1s ease-in-out !important;
   font-weight: 500 !important;
   text-decoration: none !important;
   color: rgb(41, 128, 185) !important;
@@ -84,9 +84,9 @@ h4 {
 .docs-section a:not(.button):not(.navbar-link):hover {
   background-color: rgb(33, 97, 140) !important;
   color: #ffffff !important;
-  padding: 0.5px 1px !important;
+  padding: 1px 1px !important;
   border-radius: 4px !important;
-  box-shadow: 0 0.5px 1px rgba(0,0,0,0.1) !important;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1) !important;
   text-decoration: none !important;
 }
 
@@ -205,8 +205,8 @@ h4 {
     border-bottom-width: 0; }
   .popover-link:hover {
     color: #fff;
-    background: #33C3F0; }
+    background: rgb(33, 97, 140); }
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
-    border-bottom-color: #33C3F0; }
+    border-bottom-color: rgb(41, 128, 185); }
 }
