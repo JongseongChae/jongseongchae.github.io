@@ -9,6 +9,7 @@ papers:
     authors: "<b><u>Jongseong Chae</u></b>, Jongeui Park, Yongjae Shin, Gyeongmin Kim, Seungyul Han, Youngchul Sung"
     venue: "Accepted to ICLR 2026"
     paper_pdf: "https://openreview.net/forum?id=wuncwN7iZN"
+    code: "https://github.com/JongseongChae/FAC"
     selected: y
     
   - title: "Multi-Objective Reinforcement Learning with Max-Min Criterion: A Game-Theoretic Approach"
