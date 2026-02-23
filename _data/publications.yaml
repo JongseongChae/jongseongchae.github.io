@@ -32,6 +32,7 @@ papers:
     venue: "NeurIPS 2023"
     paper_pdf: "https://arxiv.org/abs/2312.00548"
     code: "https://github.com/sunghochoi122/D3IL"
+    video: "https://slideslive.com/39011292/domain-adaptive-imitation-learning-with-visual-observation?ref=search-presentations"
     selected: y
   
   - title: "Robust imitation learning against variations in environment dynamics"
