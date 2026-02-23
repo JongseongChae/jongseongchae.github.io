@@ -2,13 +2,14 @@ papers:
   - title: "Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning"
     authors: "Yongjae Shin, <b><u>Jongseong Chae</u></b>, Jongeui Park, Youngchul Sung"
     venue: "Accepted to ICLR 2026"
-    paper_pdf: "https://openreview.net/forum?id=6wd38R8L0Z"
+    paper_pdf: "https://arxiv.org/abs/2602.18117v1"
+    code: "https://github.com/CTID282/FINO"
     selected: y
     
   - title: "Flow Actor-Critic for Offline Reinforcement Learning"
     authors: "<b><u>Jongseong Chae</u></b>, Jongeui Park, Yongjae Shin, Gyeongmin Kim, Seungyul Han, Youngchul Sung"
     venue: "Accepted to ICLR 2026"
-    paper_pdf: "https://openreview.net/forum?id=wuncwN7iZN"
+    paper_pdf: "https://arxiv.org/abs/2602.18015v1"
     code: "https://github.com/JongseongChae/FAC"
     selected: y
     
@@ -16,18 +17,21 @@ papers:
     authors: "Woohyeon Byeon, Giseung Park, <b><u>Jongseong Chae</u></b>, Amir Leshem, Youngchul Sung"
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/abs/2510.20235"
+    code: "https://github.com/whbyeon/ERAM-ARAM"
     selected: y
     
   - title: "Online pre-training for offline-to-online reinforcement learning"
     authors: "Yongjae Shin, Jeonghye Kim, Whiyoung Jung, Sunghoon Hong, Deunsol Yoon, Youngsoo Jang, Geonhyeong Kim, <b><u>Jongseong Chae</u></b>, Youngchul Sung, Kanghoon Lee, Woohyung Lim"
     venue: "ICML 2025"
     paper_pdf: "https://arxiv.org/abs/2507.08387"
+    code: "https://github.com/LGAI-Research/opt"
     selected: y
     
   - title: "Domain adaptive imitation learning with visual observation"
     authors: "Sungho Choi, Seungyul Han, Woojun Kim, <b><u>Jongseong Chae</u></b>, Whiyoung Jung, Youngchul Sung"
     venue: "NeurIPS 2023"
     paper_pdf: "https://arxiv.org/abs/2312.00548"
+    code: "https://github.com/sunghochoi122/D3IL"
     selected: y
   
   - title: "Robust imitation learning against variations in environment dynamics"
