@@ -39,6 +39,6 @@ papers:
     venue: "ICML 2022"
     paper_pdf: "https://arxiv.org/abs/2206.09314"
     code: "https://github.com/JongseongChae/RIME"
-    vedio: "https://slideslive.com/38983605/robust-imitation-learning-against-variations-in-environment-dynamics"
+    video: "https://slideslive.com/38983605/robust-imitation-learning-against-variations-in-environment-dynamics"
     selected: y
 
