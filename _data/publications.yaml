@@ -11,7 +11,7 @@ papers:
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2602.18015v1"
     code: "https://github.com/JongseongChae/FAC"
-    video: "https://recorder-v3.slideslive.com/?share=108767&s=f9b29f43-5f86-47f0-95d1-767761c155a9"
+    video: "https://slideslive.com/39059606"
     selected: y
     
   - title: "Multi-Objective Reinforcement Learning with Max-Min Criterion: A Game-Theoretic Approach"
@@ -19,6 +19,7 @@ papers:
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/abs/2510.20235"
     code: "https://github.com/whbyeon/ERAM-ARAM"
+    video: "https://slideslive.com/39050186"
     selected: y
     
   - title: "Online pre-training for offline-to-online reinforcement learning"
@@ -33,7 +34,7 @@ papers:
     venue: "NeurIPS 2023"
     paper_pdf: "https://arxiv.org/abs/2312.00548"
     code: "https://github.com/sunghochoi122/D3IL"
-    video: "https://slideslive.com/39011292/domain-adaptive-imitation-learning-with-visual-observation?ref=search-presentations"
+    video: "https://slideslive.com/39011292"
     selected: y
   
   - title: "Robust imitation learning against variations in environment dynamics"
@@ -41,6 +42,6 @@ papers:
     venue: "ICML 2022"
     paper_pdf: "https://arxiv.org/abs/2206.09314"
     code: "https://github.com/JongseongChae/RIME"
-    video: "https://slideslive.com/38983605/robust-imitation-learning-against-variations-in-environment-dynamics"
+    video: "https://slideslive.com/38983605"
     selected: y
 
