@@ -1,7 +1,7 @@
 papers:
   - title: "Adaptive Action Chunking via Multi-Chunk Q Value Estimation"
     authors: "Yongjae Shin, <b><u>Jongseong Chae</u></b>, Seongmin Kim, Jongeui Park, Youngchul Sung"
-    venue: "Accepted to NeurIPS 2026 Workshop PTA"
+    venue: "Accepted to NeurIPS 2026 PTA Workshop"
     paper_pdf: "https://arxiv.org/abs/2605.10044"
     selected: y
     
